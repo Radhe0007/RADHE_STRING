@@ -12,7 +12,7 @@ async def start(bot: Client, msg: Message):
     me2 = (await bot.get_me()).mention
     await bot.send_photo(
         chat_id=msg.chat.id,
-        photo="https://te.legra.ph/file/c07c84fb44f56cb6ba70e-3750062ae3efd9d789.jpg",
+        photo="https://te.legra.ph/file/2ed8a1ae8298a6d573acf-9f4d47a4c6854d4aa4.jpg",
         caption=f"""✦ » ʜᴇʏ  {msg.from_user.mention}  ✤,
 ✦ » ɪ ᴀᴍ {me2},
 
@@ -27,8 +27,8 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text="▪ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ ▪️", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("🔸 sᴜᴘᴘᴏʀᴛ🔸", url="https://t.me/ll_BOTCHAMBER_ll"),
-                    InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/BOT_SUPPORT_GROUP7")
+                    InlineKeyboardButton("🔸 sᴜᴘᴘᴏʀᴛ🔸", url="https://t.me/BOT_SUPPORT_GROUP7"),
+                    InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/ll_BOTCHAMBER_ll")
                 ],
                 [
                     InlineKeyboardButton("🔸 ᴀᴀʀᴀᴅʜʏᴀ ᴍᴜsɪᴄ 🔸", url="https://t.me/ZEUS_MUSIC_ROBOT"),
