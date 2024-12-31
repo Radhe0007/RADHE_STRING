@@ -37,7 +37,7 @@ import config
 ask_ques = "**☞︎︎︎ ᴄʜᴏᴏsᴇ ᴏɴᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 𖤍 ✔️ **"
 buttons_ques = [
     [
-        InlineKeyboardButton("▪️ᴛᴇʟᴇɢʀᴀᴍ ᴛᴏᴏʟs ▪️" ("https://telegram.tools/sᴇssɪᴏɴ-sᴛʀɪɴɢ-ɢᴇɴᴇʀᴀᴛᴏʀ"),
+        InlineKeyboardButton( [▪️ᴛᴇʟᴇɢʀᴀᴍ ᴛᴏᴏʟs ▪️] ("https://telegram.tools/sᴇssɪᴏɴ-sᴛʀɪɴɢ-ɢᴇɴᴇʀᴀᴛᴏʀ"),
 
 gen_button = [
     [
