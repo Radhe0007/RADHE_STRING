@@ -52,9 +52,11 @@ buttons_ques = [
 gen_button = [
     [
         InlineKeyboardButton(text="🔹ɢᴇɴʀᴀᴛᴇ sᴇssɪᴏɴ🔹", callback_data="generate")
-    ]
+    ], 
+    [
+        InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴛᴏᴏʟs", url=f"https://telegram.tools/session-string-generator")
+    ], 
 ]
-
 
 
 
