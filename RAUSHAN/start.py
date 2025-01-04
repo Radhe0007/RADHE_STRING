@@ -31,7 +31,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/ll_BOTCHAMBER_ll")
                 ],
                 [
-                    InlineKeyboardButton("🔸 ᴀᴀʀᴀᴅʜʏᴀ ᴍᴜsɪᴄ 🔸", url="https://t.me/ZEUS_MUSIC_ROBOT"),
+                    InlineKeyboardButton("🔸 ᴀʀᴀᴅʜʏᴀ ᴍᴜsɪᴄ 🔸", url="https://t.me/ZEUS_MUSIC_ROBOT"),
                     InlineKeyboardButton("▫️ʀᴀᴅʜᴇ ᴍᴜsɪᴄ▫️", url="https://t.me/RADHE_MUSIC_ROBOT")
                 ]                
             ]
